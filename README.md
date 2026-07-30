@@ -303,11 +303,12 @@ The dashboard structure is:
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
-
-Example:
-
-![Dashboard](Images/dashboard1.png)
+![Images](Images/Image1.png)
+![Images](Images/Image2.png)
+![Images](Images/Image3.png)
+![Images](Images/Image4.png)
+![Images](Images/Image5.png)
+![Images](Images/Image6.png)
 
 ---
 
