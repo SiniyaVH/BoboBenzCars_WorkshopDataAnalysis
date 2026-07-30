@@ -1,4 +1,4 @@
-# 🚗 Bobo_Benz Workshop Dataset 
+# 🚗 Car_Workshop Dataset 
 
 This is a simulated dataset; collected from Kaggle; created for analytical practice and dashboard development, inspired by a real auto workshop in Nigeria called “Bobo Benz Workshop.” It reflects the daily operations, customer behaviours , service records, and financial transactions of a local mechanic business trying to scale and modernize.
 
@@ -42,7 +42,7 @@ This dataset consist of:
 | Complaint categories | 5 |
 | Mechanics | 4 named mechanics + `Not Found` |
 
-### Main Data Categories
+### Main Data Features
 
 The cleaned dataset contains information about:
 
@@ -261,7 +261,7 @@ The dashboard structure is:
   - Payment mode analysis
   - Labour cost vs service cost
 
-3. **Vehicle Analysis
+3. **Vehicle Analysis**
    -Common complaints by brand
    -Return visit by brand
    -Total vehicle serviced
@@ -330,5 +330,3 @@ The dashboard structure is:
 Siniya V H
 
 LinkedIn: https://https://www.linkedin.com/in/siniya-v-h
-
-GitHub: https://github.com/SiniyaVH
