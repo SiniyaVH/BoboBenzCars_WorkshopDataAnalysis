@@ -1,4 +1,4 @@
-# 🚗 Car_Workshop Dataset 
+# 🚗 BoboBenzCar_Workshop Dataset 
 
 This is a simulated dataset; collected from Kaggle; created for analytical practice and dashboard development, inspired by a real auto workshop in Nigeria called “Bobo Benz Workshop.” It reflects the daily operations, customer behaviours , service records, and financial transactions of a local mechanic business trying to scale and modernize.
 
